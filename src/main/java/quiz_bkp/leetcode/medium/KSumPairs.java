@@ -1,4 +1,4 @@
-package leetcode.medium;
+package quiz_bkp.leetcode.medium;
 
 import java.util.Arrays;
 import java.util.HashMap;
